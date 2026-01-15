@@ -2,20 +2,18 @@ HPAQ 220203924 14/1/2026
 
 *GESTION DE TIEMPO*
 
-    Analisis del CSV:
+    Análisis del CSV:
         -Estimado: 20min.
         -Real: 10min (Es una hoja de cálculo con 4 columnas).
 
     Diseño lógico:
         -Estimado: 1 hora.
-        -Real: 30 minutos.
-         (Es un programa sencillo, el cual llama al archivo CSV para poder archivarlo en un TreeMap,
+        -Real: 30 minutos. (Es un programa sencillo, el cual llama al archivo CSV para poder archivarlo en un TreeMap,
          se filtra y se imprime lo que nos pide en Consola.)
 
-    Codificacion:
+    Codificación:
         -Estimado: 5 horas.
-        -Real: 3 horas
-        (Al nunca haber codificado en Java se me complicó un poco, ya que desde primer semestre
+        -Real: 3 horas. (Al nunca haber codificado en Java se me complicó un poco, ya que desde primer semestre
                   he trabajado solamente con C#, aun que maneje una Sintaxis muy similar hay herramientas que se mandan a llamar
                   muy diferente a lo que estoy familiarizado.
 
