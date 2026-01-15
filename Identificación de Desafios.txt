@@ -1,0 +1,14 @@
+HPAQ 220203924 ISI UNISON 15/1/2026
+
+Durante el desarrollo de este programa se identificaron los desafios a la hora de manejar archivos, estructurar datos y separarlos.
+    Para el manejo de archivos utilicé el BufferedReader con un try, el cual vi que mucha gente utiliza al momento de leer archivos,
+        el Try me asegura que se cierre el programa correctamente aun que haya un error al momento de leer el archivo.
+
+    Para estructurar los datos escogí el TreeMap por que organizaría numéricamente mis CP haciendo mas facil la lectura.
+
+    Para separar datos utilicé un Split "," ya que me di cuenta que los asentamientos no tenian comas y no iban a interferir
+    con la sintaxis o codificacion de esta separación.
+
+    Por ultimo, estoy aprendiendo a utilizar IntelliJ y Java, ya que siempre he usado de IDE Visual Studio y como lenguaje a C#.
+        Son lenguajes y programas similares, pero hay detalles que se manejan, administran o se necesitan de diferente maenera
+        en cada uno de estos, siempre he querido programar en Java pero nunca habia tenido la oportunidad.

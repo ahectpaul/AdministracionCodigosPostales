@@ -1,0 +1,32 @@
+HPAQ 220203924 14/1/2026
+
+*GESTION DE TIEMPO*
+
+    Analisis del CSV:
+        -Estimado: 20min.
+        -Real: 10min (Es una hoja de cálculo con 4 columnas).
+
+    Diseño lógico:
+        -Estimado: 1 hora.
+        -Real: 30 minutos.
+         (Es un programa sencillo, el cual llama al archivo CSV para poder archivarlo en un TreeMap,
+         se filtra y se imprime lo que nos pide en Consola.)
+
+    Codificacion:
+        -Estimado: 5 horas.
+        -Real: 3 horas
+        (Al nunca haber codificado en Java se me complicó un poco, ya que desde primer semestre
+                  he trabajado solamente con C#, aun que maneje una Sintaxis muy similar hay herramientas que se mandan a llamar
+                  muy diferente a lo que estoy familiarizado.
+
+    Pruebas y Debug:
+        -Estimado: 1 hora
+        -Real: 30 min
+        (IntelliJ te facilita al encontrar errores de sintaxis y con problemas de depuración.)
+
+    Documentación Final y GitHub:
+        -Estimado: 2 horas
+        -Real: 1 hora
+        (Como horas brutas fueron mas, ya que lo hacia entre clases y en el break del trabajo,
+         es necesario tener tiempo para poder crear todos tus proyectos sin perder el enfoque en
+         cualquier proyecto que estés haciendo.)
